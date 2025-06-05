@@ -7,7 +7,7 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. It sup
 
 ## 🖼️ Demo
   
-🔗 **Live Demo**: [Click here to try it](https://your-live-link.netlify.app) 
+🔗 **Live Demo**:
 
 ---
 
